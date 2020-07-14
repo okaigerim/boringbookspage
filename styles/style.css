@@ -1,0 +1,64 @@
+*{
+    margin: 0 auto;
+    padding: 3px;
+    
+}
+body {
+    background-color: #f4f4f4;
+    color: #555555;
+
+    font-family: Times;
+    font-size: 16px;
+    font-weight:normal;
+    
+    line-height: 1.6em;   
+    text-align: center;
+}
+body img{
+    width: 80px
+}
+body blockquote{
+    background: #f3eeeef8;
+
+    border-width: 3px;
+    border: 4px;
+    border-style: dotted;
+    border-radius: 5px;
+    box-sizing: border-box;
+
+    max-width: 42rem;
+    text-align: center;
+
+    padding: 10px;
+    margin-top: 20px;
+}
+.main ul {
+    margin:0;
+    padding:0;
+    text-align: center;
+    list-style: none;              
+}
+.main ul  li {
+    padding: 2px 5px;               
+}
+
+hr{
+    border:none;
+    border-top: 3px double #333;
+    color: #333;
+    height: 5px;
+    max-width: 42rem;
+}
+
+
+.booksineachcategory table,
+td {
+    border: 1px solid #333;  
+}
+
+.booksineachcategory thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+
