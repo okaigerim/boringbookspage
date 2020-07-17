@@ -1,7 +1,2 @@
 # boringbookspage
-Books I've read
-
-The level of webpages will keep upgrading
-
-I don't think so
-
+I am ashamed to even write something
